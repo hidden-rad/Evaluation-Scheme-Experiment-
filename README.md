@@ -5,21 +5,21 @@
 #### Semantic Consistency with Gold Standard (10 points)
 
 Evaluates how semantically consistent the report is with the Gold Standard.
-#### Perfect Consistency (8–10 points):
+##### Perfect Consistency (8–10 points):
 The report is at least 90% semantically consistent with the Gold Standard.
 Example:
 Gold Standard: "Pneumonia observed in the right lower lobe."
 Report: "Pneumonia detected in the right lower lobe."
 (The report accurately reflects key diagnoses and observations.)
 
-#### Partial Consistency (5–7 points):
+##### Partial Consistency (5–7 points):
 The report is 70–89% semantically consistent with the Gold Standard.
 Example:
 Gold Standard: "Pneumonia and mild pleural effusion."
 Report: "Pneumonia detected."
 (Pleural effusion is omitted in the report.)
 
-#### Some Missing Information (3–4 points):
+##### Some Missing Information (3–4 points):
 The report is 50–69% semantically consistent with the Gold Standard.
 Example:
 Gold Standard: "Pneumonia observed in the right lower lobe."
@@ -29,27 +29,27 @@ Report: "Pneumonia detected."
 #### Diagnosis-Focused Writing (5 points)
 
 Evaluates whether 70% or more of the report content is centered around diagnoses and observations.
-#### Fully Diagnosis-Focused (4–5 points):
+##### Fully Diagnosis-Focused (4–5 points):
 Example:
 Report: "Pneumonia detected in the right lower lobe, consistent with imaging findings and symptoms."
 (Focused entirely on diagnosis-related information.)
 
-#### Partially Diagnosis-Focused (3 points):
+##### Partially Diagnosis-Focused (3 points):
 Example:
 Report: "Pneumonia detected. The patient also reported fatigue."
 (Contains unrelated information about fatigue.)
 
 ### 1-2. Diagnosis-Based Writing (15 points)
-Evaluation of Diagnosis-Based Writing (10 points)
+#### Evaluation of Diagnosis-Based Writing (10 points)
 
 Determines whether all diagnoses are accurately reflected from the Gold Standard.
-#### Clearly Based on Diagnosis (8–10 points):
+##### Clearly Based on Diagnosis (8–10 points):
 Example:
 Gold Standard: "Pneumonia localized in the right lower lobe."
 Report: "Pneumonia detected in the right lower lobe."
 (The report accurately reflects the diagnosis.)
 
-#### Partial Accuracy (5–7 points):
+##### Partial Accuracy (5–7 points):
 Example:
 Gold Standard: "Pneumonia and bronchitis detected."
 Report: "Pneumonia detected."
@@ -58,12 +58,12 @@ Report: "Pneumonia detected."
 #### Absence of Unnecessary or Inaccurate Information (5 points)
 
 Evaluates whether the report avoids unnecessary or inaccurate content.
-#### No Unnecessary Content (4–5 points):
+##### No Unnecessary Content (4–5 points):
 Example:
 Report: "Pneumonia detected and consistent with imaging findings and symptoms."
 (Focused without irrelevant content.)
 
-#### Contains Some Unnecessary Content (3 points):
+##### Contains Some Unnecessary Content (3 points):
 Example:
 Report: "Pneumonia detected. The patient recently exercised."
 (Includes irrelevant information about exercise.)
